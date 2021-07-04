@@ -145,6 +145,10 @@ azabu_sum=round(azabu["PTN_2020"].sum())
 # - What was difficult?
 
 # YOUR ANSWER HERE
+#Problem
+#Problem 1 is 4
+#Problem 2 is 5
+#Problem 3 is 5
 #All problems were difficult for me, but the first part of problem 1, creating the file, was easy.
 #
 # Well done!
